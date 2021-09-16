@@ -1,1 +1,2 @@
 Another new text file, MODIFIED in remote repo.
+New line.
