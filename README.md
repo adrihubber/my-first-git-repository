@@ -1,5 +1,6 @@
 # my-first-git-repository
 
-Readme file manually edited by Adrix. One more time!
+Esta línea se cambió en el branch-2
 Cambio implementado manualmente para resolver conflicto.
 Nueva línea implementada localmente por adrihubber (configuración adicional).
+This line was added in branch-2
