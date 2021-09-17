@@ -1,2 +1,3 @@
 Another new text file, MODIFIED in remote repo.
 New line.
+Modificación remota en feature-2 para probar git show-ref.
